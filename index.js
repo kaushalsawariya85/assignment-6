@@ -15,7 +15,7 @@ function calculator(a,b,c){
     }
     else{
         if(c==='+'){
-            return a+b;
+            return a-b;
         }
         else if(c==='*'){
             return a*b;
